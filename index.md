@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## About me
-
 I am currently a Postdoctoral Research Fellow in the [Visual Computing Center](https://vcc.kaust.edu.sa/) at [King Abdullah University of Science & Technology](https://www.kaust.edu.sa/) (KAUST), Kingdom of Saudi Arabia, under the supervision of [Prof. Peter Wonka](http://peterwonka.net/).
 
 ## Education
