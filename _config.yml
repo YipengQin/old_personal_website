@@ -7,9 +7,9 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Yipeng Qin
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  avatar: photo_kaust_small.jpg
+  bio: Postdoc Researcher <br/> @ Visual Computing Center (VCC), KAUST <br/> Saudi Arabia
+  email: yipeng.qin@kaust.edu.sa
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
