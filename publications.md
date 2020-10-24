@@ -50,7 +50,7 @@ excerpt: "Selected Publications"
 		<td style="vertical-align:middle; font-size:15px; line-height:20px; margin: 0; padding: 10px;">
 				<p style="margin-bottom: 8px;"><strong> Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? </strong> </p>
 				<p style="margin-bottom: 8px;">Rameen Abdal, Yipeng Qin, Peter Wonka </p>
-				ICCV 2019 (oral)
+				ICCV 2019 (Oral)
 				<br/>
 				<a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.html" target="_blank"><u>[paper]</u></a>
 		</td>
