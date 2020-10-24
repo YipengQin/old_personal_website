@@ -8,10 +8,18 @@ I am looking for highly-motivated PhD students. If you are interested in doing r
 
 ## Biography
 
-I am a Lecturer/Assistant Professor in the School of Computer Science and Informatics, Cardiff University and a member of the <a href="https://www.cardiff.ac.uk/computer-science/research/groups/visual-computing" target="_blank">Visual Computing research group </a>.
+I am a Lecturer (~Assistant Professor) in the School of Computer Science and Informatics, Cardiff University and a member of the <a href="https://www.cardiff.ac.uk/computer-science/research/groups/visual-computing" target="_blank">Visual Computing research group </a>.
 
 I received my Bachelor’s degree in Electronic Engineering from <a href="http://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>, China, in 2013. Later in 2017, I obtained my Ph.D. in Computer Science from the <a href="https://ncca.bournemouth.ac.uk/" target="_blank">National Centre for Computer Animation (NCCA)</a>, Bournemouth University, UK. From Nov. 2017 to May 2019, I was a Postdoctoral Research Fellow in the <a href="https://vcc.kaust.edu.sa/" target="_blank">Visual Computing Center (VCC)</a> at KAUST, Saudi Arabia.
 
+## Research Interests:
+
+My research interests span three active areas in computer science: visual computing (computer graphics and computer vision), geometry processing and machine learning. Recently, I'm working on understanding the training dynamics of deep neural networks (with an emphasis on Generative Adversarial Networks) and expanding their applications in visual computing. I am interested in supervising PhD students in the areas of:
+- AI for Generative Modelling
+- Interpretable ML/AI for Visual Content Generation
+- Bias and Fairness in AI
+- Image Synthesis and Manipulation
+- 3D Geometry Processing
 
 ## Education
 
@@ -26,16 +34,6 @@ I received my Bachelor’s degree in Electronic Engineering from <a href="http:/
 <a href="https://www.seiee.sjtu.edu.cn/" target="_blank">School of Electronic Information and Electrical Engineering</a>
 <br/>
 <a href="http://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>, P.R.China
-
-
-## Research Interests:
-
-My research interests span three active areas in computer science: visual computing (computer graphics and computer vision), geometry processing and machine learning. Recently, I'm working on understanding the training dynamics of deep neural networks (with an emphasis on Generative Adversarial Networks) and expanding their applications in visual computing. I am interested in supervising PhD students in the areas of:
-- AI for Generative Modelling
-- Interpretable ML/AI for Visual Content Generation
-- Bias and Fairness in AI
-- Image Synthesis and Manipulation
-- 3D Geometry Processing
 
 ## Teaching
 
