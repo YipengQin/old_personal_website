@@ -4,6 +4,8 @@ layout: page
 
 I am looking for highly-motivated PhD students. If you are interested in doing research in Computer Vision, Computer Graphics, Machine Learning and other related fields, please feel free to send me an email including your CV and transcript!
 
+<a style="font-weight:bold" href="https://www.findaphd.com/phds/project/epsrc-dtp-studentship-uncovering-the-instincts-of-deep-generative-models-for-fair-and-unbiased-visual-content-creation/?p129042" target="_blank"> EPSRC DTP studentship </a>  **available (Deadline March 31, 2021)!**
+
 **China Scholarship Council (CSC)** Funding Opportunities: Cardiff University is an official partner of China Scholarship Council (CSC). If you are interested, please highlight it in your email.
 
 ## Biography
