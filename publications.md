@@ -6,7 +6,7 @@ excerpt: "Selected Publications"
 
 <table style="width:100%;margin-bottom: 20px;">
 	<tr>
-		<td style="vertical-align:top;width:180px;"><img src="../images/2021_ACMMM_PixelDA.JPG" style="width:180px;"></td>
+		<td style="vertical-align:middle;width:180px;"><img src="../images/2021_ACMMM_PixelDA.JPG" style="width:180px;"></td>
 		<td style="vertical-align:middle; font-size:15px; line-height:20px; margin: 0; padding: 10px;">
 				<p style="margin-bottom: 8px;"><strong>Pixel-level Intra-domain Adaptation for Semantic Segmentation</strong></p>
 				<p style="margin-bottom: 8px;">Zizheng Yan, Xianggang Yu, Yipeng Qin, Yushuang Wu, Xiaoguang Han, Shuguang Cui</p>
@@ -19,7 +19,7 @@ excerpt: "Selected Publications"
 
 <table style="width:100%;margin-bottom: 20px;">
 	<tr>
-		<td style="vertical-align:top;width:180px;"><img src="../images/2021_IEEE_Sensors_Robust_angle_prediction.JPG" style="width:180px;"></td>
+		<td style="vertical-align:middle;width:180px;"><img src="../images/2021_IEEE_Sensors_Robust_angle_prediction.JPG" style="width:180px;"></td>
 		<td style="vertical-align:middle; font-size:15px; line-height:20px; margin: 0; padding: 10px;">
 				<p style="margin-bottom: 8px;"><strong>Robust Elbow Angle Prediction with Aging Soft Sensors via Output-Level Domain Adaptation</strong></p>
 				<p style="margin-bottom: 8px;">Zhongguan Zhu, Shihui Guo, Yipeng Qin, Xiaowei Chen, Ronghui Wu, Yating Shi, Xiangyang Liu and Minghong Liao</p>
