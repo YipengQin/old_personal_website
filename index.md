@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am looking for highly-motivated PhD students. If you are interested in doing research in Computer Vision, Computer Graphics, Machine Learning and other related fields, please feel free to send me an email including your CV and transcript!
+**I am looking for highly-motivated PhD students.** If you are interested in doing research in Computer Vision, Computer Graphics, Machine Learning and other related fields, please feel free to send me an email including your CV and transcript!
 
 **China Scholarship Council (CSC)** Funding Opportunities: Cardiff University is an **official partner** of China Scholarship Council (CSC). If you are interested, please highlight it in your email.
 
